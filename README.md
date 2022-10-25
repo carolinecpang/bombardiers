@@ -11,7 +11,7 @@ The trajectory of the missiles are affected by the gravity fields of the planets
 
 The game is built on top of the cmu_112_graphics.py MVC framework which provides an interface for rendering and loading different game modes. All other aspects of the game are hand coded.
 
-![Screen captures from Bombardiers game]()
+![Screen captures from Bombardiers game](https://github.com/carolinecpang/bombardiers/blob/master/images/sample-images.png)
 
 There are three different game modes: Single Player, Multiplayer, and Multiplayer + Planets
 
